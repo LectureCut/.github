@@ -1,2 +1,5 @@
-# .github
-This repository only hosts the super duper fancy org README.
+## Hey 👋, 
+
+it seems like you got lost. You are probably looking for this file: [README.md](profile/README.md).
+
+Have a nice day! 😊
